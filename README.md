@@ -21,7 +21,7 @@ Um simulador de site de vendas de produtos da área de tecnologia.
 ### Layout
 ![](./src/assets/layout.png)
 ### Demonstração
-[Link do projeto](https://techno-campos.surge.sh/)
+Clique [aqui](https://techno-campos.surge.sh/) para acessar a página do projeto.
 ### Como rodar este projeto
 ```bash
 #Clone este repositório
