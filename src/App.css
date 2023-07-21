@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  background-color: rgb(2, 2, 56);
+  display: flex;
+  
+  
+  
+}
+
+.qtde{
+  color: white;
+  
+}
+
+.carrinho{
+  display: flex;
+  flex-direction: column;
+  width: 25vw;
+  color: white;
+  background-color: black;
+  padding: 1vw;
+}
+
+.titulo-do-carrinho {
+  color: white;
+}
+
+.produtos-renderizados{
+  
+  width: 65vw;
+  display: flex;
+  flex-wrap: wrap;
+}
