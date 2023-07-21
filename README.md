@@ -19,7 +19,7 @@ Um simulador de site de vendas de produtos da área de tecnologia.
 - [x] Quantidade de produtos adicionados ao carrinho, descrição desses produtos, valor unitário e valor total da compra
 
 ### Layout
-![](./tech-campos/src/assets/layout.png)
+![](./src/assets/layout.png)
 ### Demonstração
 [Link do projeto](https://techno-campos.surge.sh/)
 ### Como rodar este projeto
