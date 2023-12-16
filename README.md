@@ -1,7 +1,7 @@
 # TechCampos
 
 
-Um simulador de site de vendas de produtos da área de tecnologia.
+Um simulador de site de vendas de produtos da área de tecnologia e de um carrinho de compras.
 
 ### Índice
 
